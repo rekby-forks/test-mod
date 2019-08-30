@@ -1,5 +1,5 @@
 package tst
 
 func Test()int {
-return 1
+return 2
 }
